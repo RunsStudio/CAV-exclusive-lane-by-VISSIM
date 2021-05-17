@@ -1,0 +1,22 @@
+$VISION
+* File: H:\VISSIMdevelop\TRB-1 CAV+SSAM\test2000\CAV+SSAM+NinghuHighway(2000).inpx
+* Comment: 
+* Date: 2019/6/5 18:51:37
+* PTV Vissim: 6.00 [21]
+* 
+* Table: Vehicles In Network
+* 
+* SIMSEC: Simulation second [s]
+* NO: Number
+* LANE\LINK\NO: Lane\Link\Number
+* LANE\INDEX: Lane\Index
+* POS: Position [m]
+* POSLAT: Position (lateral)
+* ACCELERATION: Acceleration [m/s2]
+* SPEED: Speed [km/h]
+* SPEEDDIFF: Speed difference [km/h]
+* LENGTH: Length [m]
+* STARTTM: Start time [s]
+* HDWY: Headway [m]
+*
+$VEHICLE:SIMSEC;NO;LANE\LINK\NO;LANE\INDEX;POS;POSLAT;ACCELERATION;SPEED;SPEEDDIFF;LENGTH;STARTTM;HDWY

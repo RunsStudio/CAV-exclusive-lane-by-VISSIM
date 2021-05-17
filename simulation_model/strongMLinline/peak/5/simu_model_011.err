@@ -1,0 +1,4 @@
+﻿Simulation time 2065.0: Vehicle 2083 (on Static Vehicle Route 6: Parking Lot 11 - 2)  arrived at the end of link 9: 交织区 without having found the next link (10023) of its route.
+Simulation time 6053.2: After 60.0 seconds of waiting for lane change the vehicle 8854 (on Static Vehicle Route 1: Parking Lot 1 - 4) was removed from link 18 at position 930.0.
+Simulation time 6769.9: After 60.0 seconds of waiting for lane change the vehicle 10289 (on Static Vehicle Route 1: Parking Lot 1 - 2) was removed from link 18 at position 925.0.
+Vehicle input 1: Parking Lot 1 could not be finished completely  (remain: 306 vehicles).
