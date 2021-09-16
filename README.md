@@ -52,7 +52,7 @@ CAV专用道仿真评估，基于VISSIM实现
 + source - 源代码
 
   + auto_running - 自动运行工具
-  + calibration - 标定代码，参考https://kunrunwu.gitee.io/2020/01/09/%E4%BD%BF%E7%94%A8%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E6%A0%87%E5%AE%9AVISSIM-4.3/
+  + calibration - 标定代码，参考https://runsstudio.github.io/2021/07/18/%E4%BD%BF%E7%94%A8%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E6%A0%87%E5%AE%9AVISSIM-4.3/
   + CAV_microscopic_model - CAV微观模型
   + result_analysis - 结果分析
 
